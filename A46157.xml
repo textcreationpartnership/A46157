@@ -1,0 +1,357 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Whereas many and great inconveniences have happened to His Majesties subjects of this kingdom ... by the Lord Deputy and Council, Arran.</title>
+            <author>Ireland. Lord Deputy.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46157</idno>
+            <idno type="STC">Wing I848</idno>
+            <idno type="STC">ESTC R36899</idno>
+            <idno type="EEBO-CITATION">16150875</idno>
+            <idno type="OCLC">ocm 16150875</idno>
+            <idno type="VID">104885</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46157)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104885)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1595:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Whereas many and great inconveniences have happened to His Majesties subjects of this kingdom ... by the Lord Deputy and Council, Arran.</title>
+                  <author>Ireland. Lord Deputy.</author>
+                  <author>Arran, Richard Butler, Earl of, d. 1686.</author>
+               </titleStmt>
+               <extent>[3] leaves.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Benjamin Tooke and John Crooke ... and are to be sold at His Majesties Printing-House ... and at Joseph Wild ...,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from first 3 lines of text.</note>
+                  <note>Statement of responsibility transposed from head of title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Given at the Council chamber in Dublin, the 6th day of June 1683"--leaf [3]</note>
+                  <note>Broadside in [3] leaves.</note>
+                  <note>Imperfect: faded, with loss of print.</note>
+                  <note>Reproduction of original in the Society of Antiquaries Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coinage --  Law and legislation --  Ireland.</term>
+               <term>Money --  Law and legislation --  Ireland.</term>
+               <term>Ireland --  History --  1649-1775.</term>
+               <term>Ireland --  Politics and government --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:104885:1"/>
+            <head>
+               <figure/> BY THE Lord Deputy AND COUNCIL,</head>
+            <opener>ARRAN.</opener>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS many and great Inconveniences have happened to His Majeſties Subjects of this Kingdom, by the difference of Weights that have been of lo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> m<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe of, for the Weigh<g ref="char:EOLhyphen"/>ing of ſuch Forreign Coyn, as hath been made Currant here by Proclamation, As alſo by the bringing over into this Kingdom<g ref="char:punc">▪</g> great quan<g ref="char:EOLhyphen"/>tities of light <hi>Peru-Pieces</hi> of Eight, which for ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me time did commonly paſs without any re<g ref="char:EOLhyphen"/>gard to their Weight, for four Shillings ſix pence a Piece, which was more than their real value and of late many of them have been refuſ<g ref="char:EOLhyphen"/>ed to be taken for more than three Shillings, or three and ſix pence a Piece, which is leſs than their real value, whereby many of His Majeſties Sub<g ref="char:EOLhyphen"/>jects have been at great loſs, which hath been cheifly occaſioned for want of taking due Notice of the ſeveral Proclamations now in Force, whereby ſuch Forreign Coyn is made Currant, which are moſt of them out of Print, and not eaſily to be had; And We being deſirous to remedy a miſchief, that may prove ſo prejudi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ial to the Trade and Traffique of this Kingdom, by ſuch incer<g ref="char:EOLhyphen"/>tainty in the Coyn now Currant here; Have thought fit by this Our Pro<g ref="char:EOLhyphen"/>clamation, to Declare, at what Rates all ſorts of Forreign Coyn, by the ſeveral Proclamations now in Force, are to paſs amongſt His Maje<g ref="char:EOLhyphen"/>ſties
+<pb facs="tcp:104885:2"/>
+Subjects of this Kingdom which are as followeth,
+<table>
+                  <row>
+                     <cell role="label" rows="11">Gold</cell>
+                     <cell> </cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">ſ.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>The Piece, commonly called the <hi>Golden-Rider,</hi> weighing ſix penny weight and twelve grains, to paſs at twenty two Shillings and ſix pence.</cell>
+                     <cell>01</cell>
+                     <cell>02</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>The Piece, commonly called the half <hi>Golden-Rider,</hi> weighing three penny weight and ſix grains, to paſs at Eleven ſhillings three pence</cell>
+                     <cell>00</cell>
+                     <cell>11</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>The Piece, commonly called the <hi>Spaniſh Quadruple Piſtol</hi> of <hi>Gold</hi> or <hi>French Quadruple Piſtol</hi> of <hi>Gold,</hi> weighing ſeventeen penny weight and four grains, to paſs at three pound ten ſhillings</cell>
+                     <cell>03</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>The Piece, commonly called the <hi>Spaniſh Double Piſtol,</hi> or <hi>French Double Piſtol of Gold,</hi> weighing Eight penny weight, and Fourteen grains, to paſs at thirty five ſhillings</cell>
+                     <cell>01</cell>
+                     <cell>15</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>The Piece, commonly called the <hi>Spaniſh Single Piſtol,</hi> or <hi>French ſingle piſtol</hi> of <hi>Gold,</hi> weighing four penny weight and ſeven grains, to paſs at ſeventeen ſhillings, ſix pence</cell>
+                     <cell>00</cell>
+                     <cell>17</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>The Piece, commonly called the <hi>Spaniſh</hi> half <hi>Piſtol,</hi> or <hi>French</hi> half <hi>Piſtol</hi> of <hi>Gold,</hi> weighing two penny weight and three grains and half, to paſs at eight ſhillings nine pence</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                     <cell>09</cell>
+                  </row>
+                  <row>
+                     <cell>The Piece, commonly called the <hi>Double Ducal</hi> of <hi>Gold,</hi> weighing four penny weight and twelve grains, to paſs at Eighteen ſhillings</cell>
+                     <cell>00</cell>
+                     <cell>18</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>The Piece, commonly called the <hi>Single Ducal</hi> of <hi>Gold,</hi> weighing two penny weight and ſix grains, to paſs at nine ſhillings</cell>
+                     <cell>00</cell>
+                     <cell>09</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>The piece, commonly called the <hi>Spaniſh ſuffrance</hi> of <hi>Gold,</hi> weighing ſeven penny weight and two grains, to paſs at twenty Eight ſhillings ſix pence</cell>
+                     <cell>01</cell>
+                     <cell>08</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>The Piece commonly called the <hi>Spaniſh</hi> half <hi>ſuffrance</hi> of <hi>Gold,</hi> weighing three penny weight and thirteen grains, to paſs at four<g ref="char:EOLhyphen"/>teen ſhillings three pence</cell>
+                     <cell>00</cell>
+                     <cell>14</cell>
+                     <cell>03</cell>
+                  </row>
+               </table>
+
+
+               <table>
+                  <row>
+                     <cell role="label" rows="16">Silver</cell>
+                     <cell>The piece commonly called the <hi>Duccatoon</hi> weighing one ounce and ſixteen grains, to paſs at ſix ſhillings</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The Piece, commonly called the half <hi>Duccatoon,</hi> weighing ten penny weight and eight grains, to paſs at three ſhillings</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The Piece commonly caled the quarter <hi>Duccatoon</hi> weighing five penny weight and four grains, to paſs at one ſhilling ſix pence</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>06</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">ſ.</cell>
+                     <cell role="label">d.</cell>
+                     <cell role="label">far</cell>
+                  </row>
+                  <row>
+                     <cell>Th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> piece, commonly called the piece of eight of <hi>Mexico</hi> or <hi>Sevil<g ref="char:punc">▪</g>
+                        </hi> the <hi>Mexico</hi> piece commonly called the <hi>Pilla piece,</hi> the <hi>Rix Dollar Croſs dollar</hi> and <hi>French Lewis,</hi> weighing ſeventeen penny weight, to Paſs at fourſhillings nine pence</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                     <cell>09</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>The piece, commonly called the half piece of eight of <hi>Mexico</hi> or <hi>ſevill, Pillar piece, Rix Dollar, Croſs Dollar,</hi> and <hi>French Lewis,</hi> weighing Eight penny weight and twelve grains, to paſs at two ſhillings, four Pence half penny</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                     <cell>04</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>The piece, commonly called the Quarter piece of eight of <hi>Mexico</hi> or <hi>ſevill, Pillar</hi> piece, <hi>Rix Dollar, Croſs Dollar,</hi> and <hi>French Lewis,</hi> weighing four penny weight and ſix grains, to paſs at one ſhilling two penny Farthing</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>02</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>The piece, commonly calld the half quarter piece of eight of <hi>Mexico</hi> or <hi>ſevill, Pillar</hi> piece, <hi>Rix Dollar, Croſs Dollar</hi> and <hi>French Lewis,</hi> weighing two penny weight and three graines, to paſs at ſeven pence half farthing</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>7</cell>
+                     <cell>
+                        <hi>h.f</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The peice, commonly called the twelfth part of the <hi>French Lewis</hi> weighing one penny weight and twelve grains, to paſs at four pence three farthings</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                     <cell>3</cell>
+                  </row>
+                  <pb facs="tcp:104885:3"/>
+                  <row>
+                     <cell>The piece of eight commonly called the <hi>old Peru</hi> weighing ſeventeen penny weight, to paſs at four ſhillings ſix pence</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                     <cell>06</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>The piece commonly called the half peice of Eight of <hi>Old Peru</hi> weighing eight penny weight and twelve grains, to paſs at two ſhillings and three pence</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>The piece commonly called the quarter piece of Eight of <hi>Old Peru</hi> weighing four penny weight and ſix grains, to paſs at one ſhilling one Penny half penny</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>01</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>The piece commonly called the half quarter piece of Eight of <hi>Old Peru</hi> weighing two penny weight and three grains to paſs at ſix pence three farthings</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>6</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>The piece commonly called the <hi>Portugal Royal</hi> weighing Four<g ref="char:EOLhyphen"/>teen penny weight, to paſs at three ſhillings Eight pence</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                     <cell>08</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>The piece, commonly called the half <hi>Portugal Royal</hi> weighing ſe<g ref="char:EOLhyphen"/>ven penny weight to paſs at one ſhilling ten pence</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>10</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>The piece commonly called the quarter <hi>Portugal Royal,</hi> weigh<g ref="char:EOLhyphen"/>ing three penny weight and twelve grains to paſs at Eleven pence</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>11</cell>
+                     <cell>0</cell>
+                  </row>
+               </table>
+            </p>
+            <p>And in caſe any of the aforeſaid pieces of Gold or Silver ſhall want of the weight herein laid down on the ſaid pieces reſpectively, then Allowance is to be given of Two pence for each Grain ſo wanting in any piece of the kinds of Gold aforeſaid reſpectively, and three pence for each penny weight ſo wanting in any piece of the kinds of Silver aforeſaid reſpectively, and ſo proportio<g ref="char:EOLhyphen"/>nably for greater or leſſer wants of weight in the ſaid Pieces. And in caſe ſuch defect of weight as aforeſaid, ſhall be ſupplied in manner as aforeſaid, then and in ſuch caſe every piece ſo defective in weight as aforeſaid, and that defect of weight ſo ſupplyed in manner as aforeſaid, is to be allowed and to paſs in all payments as well to and from His Majeſty, as otherwiſe howſoever as Currant Mony within this Kingdom as fully and freely as if the ſame were ſterling Mony and Currant of and in England.</p>
+            <p>And We do hereby alſo Declare, That all the aforeſaid ſorts of Forreign Coyn being ſtanding weight, are to paſs, and are to be paid and received at the Rates herein above mentioned, and that any ſuch Coyns not weighing down the Scales in the weighing thereof, is not to be any cauſe for the refuſal thereof at the Rates herein above mentioned.</p>
+            <p>As alſo that every perſon receiving any money ſhall receive by what ſide of the Scales he pleaſes, if he uſes thoſe of the Payer, and if he uſes his own, then he is to receive by which ſide the Payer ſhall thinke fit to direct.</p>
+            <p>And to the end there may be no incertainty in the weights of money, We do here<g ref="char:EOLhyphen"/>by further declare that we have directed all the weights that are neceſſary for the ſaid Silver Coyn, to be exactly made by <hi>Henry Paris,</hi> and <hi>John Cuthbeard</hi> of the City of <hi>Dublin,</hi> the Stamp to be Flat, and the Circle to be ſmooth and poliſhed, that no duſt may gather in, &amp; each weight to be Stampt with the number of the penny weights it bears on one ſide, and the Crown and Harp on the other ſide, where the ſame may be had at reaſonable Rates, not exceeding Twelve pence for all the weights being eight in Number, <hi>viz.</hi> for the <hi>Duccatoon,</hi> halfe <hi>Duccatoon,</hi> for the whole Plate and <hi>Peru</hi> pieces, and halfe and quarter pieces thereof, a Two penny weight, a penny weight, an halfe penny weight, which are all that will be neceſſary for weighing the ſaid ſeveral ſorts of Silver Coyn that do now commonly paſs in this Kingdom.</p>
+            <p>And We have Ordered a Standard of all ſorts of the ſaid weights for Silver Coyn to be left in the hands of the reſpective Sheriffs of the ſeverall Counties of this Kingdom, and alſo in the hands of the reſpective Mayors, and other Cheif Magiſtrates of the ſeverall Cities and Corporations of this Kingdom by whom the ſame are to be left in ſucceſſion with the next ſucceding Sheriff, Mayors and other Magiſtrates, to the end that all differences that ſhall happen about any weights for Money may thereby be either determined or prevented.</p>
+            <p>And in caſe any perſon or perſons ſhall either pay or receive any mony by any other weights then ſuch as ſhall be agreeable to the weights ſo to be le<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t in the ſaid Sheriffs, Mayors, and other Cheif Magiſtrates hands, they are to be pro<g ref="char:EOLhyphen"/>ceeded againſt &amp; puniſhed according to Law, as Keepers, &amp; uſers of falſe and un<g ref="char:EOLhyphen"/>lawfull weights.</p>
+            <closer>
+               <dateline>Given at the Council Chamber in <hi>Dublin,</hi>
+                  <date>the 6th day of <hi>June</hi> 1683.</date>
+               </dateline>
+               <signed>Mich Armach. C. Franc. Dublin<g ref="char:punc">▪</g> Longford. Wm. Davys. John Keating, He: Hene. Jon: Davys. Ric<g ref="char:punc">▪</g> Reynells. Ol: St: George. Mau: Euſtace.</signed>
+            </closer>
+            <closer>God ſave the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Dublin,</hi> Printed by <hi>Benjamin Tooke,</hi> and <hi>John Crooke.</hi> Printers to the Kings Moſt Excellent Majeſty And are to be ſold at His Majeſties Printing-Houſe, on <hi>Ormonde-Key.</hi> and at <hi>Joſeph Wild</hi> Bookſeller in <hi>Caſtle ſtreet,</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
